@@ -8,7 +8,7 @@
     "@testing-library/react": "^12.1.4",
     "@testing-library/user-event": "^13.5.0",
     "audit": "^0.0.6",
-    "fix": "^0.0.3",
+    "fix": "^0.0.6",
     "gh-pages": "^4.0.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
