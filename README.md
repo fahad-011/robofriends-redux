@@ -1,20 +1,20 @@
 # RoboFriends
 
-![App Screenshot](Robofriends.jpg)
+![App Screenshot](Robofriends.gif)
 
 RoboFriends is a delightful and interactive web application that brings a whimsical world of random robots to your screen. Powered by REST APIs, this app generates an array of adorable and diverse robot characters, each with its unique personality and appearance. Get ready to meet your new robo-buddies and explore the colorful realm of artificial intelligence.
 
 # Key Features
 
-* **Random Robot Generation**: RoboFriends leverages REST APIs to generate a wide array of randomly assembled robots. Each time you refresh the page or interact with the app, a new set of lovable robots will appear, offering a fresh experience with every visit.
+- **Random Robot Generation**: RoboFriends leverages REST APIs to generate a wide array of randomly assembled robots. Each time you refresh the page or interact with the app, a new set of lovable robots will appear, offering a fresh experience with every visit.
 
-* **Diverse Robot Personalities**: From cute and cuddly to bold and futuristic, the robots in RoboFriends boast a diverse range of appearances and characteristics. There's a robot to match every mood and style!
+- **Diverse Robot Personalities**: From cute and cuddly to bold and futuristic, the robots in RoboFriends boast a diverse range of appearances and characteristics. There's a robot to match every mood and style!
 
-* **Interactive Interface**: The user-friendly interface invites you to interact with the robots. You can click on individual robots to learn more about their quirky personalities and discover their names.
+- **Interactive Interface**: The user-friendly interface invites you to interact with the robots. You can click on individual robots to learn more about their quirky personalities and discover their names.
 
-* **Responsive Design**: RoboFriends is thoughtfully designed to adapt seamlessly to various screen sizes and devices. Whether you're using a desktop computer, tablet, or smartphone, the app will provide an optimal user experience.
+- **Responsive Design**: RoboFriends is thoughtfully designed to adapt seamlessly to various screen sizes and devices. Whether you're using a desktop computer, tablet, or smartphone, the app will provide an optimal user experience.
 
-* **Endless Fun and Exploration**: With a vast collection of robot characters at your fingertips, RoboFriends offers endless fun and exploration. You'll find yourself immersed in the colorful world of artificial companions.
+- **Endless Fun and Exploration**: With a vast collection of robot characters at your fingertips, RoboFriends offers endless fun and exploration. You'll find yourself immersed in the colorful world of artificial companions.
 
 # How to Use
 
